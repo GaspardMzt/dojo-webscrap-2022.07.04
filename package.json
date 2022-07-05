@@ -1,7 +1,7 @@
 {
   "name": "dojo-webscrap-2022.07.04",
   "version": "1.0.0",
-  "description": "",
+  "description": "scrap scrapping webscrap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GaspardMzt/dojo-webscrap-2022.07.04/issues"
   },
-  "homepage": "https://github.com/GaspardMzt/dojo-webscrap-2022.07.04#readme"
+  "homepage": "https://github.com/GaspardMzt/dojo-webscrap-2022.07.04#readme",
+  "dependencies": {
+    "puppeteer": "^15.3.0"
+  }
 }
